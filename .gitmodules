@@ -10,3 +10,6 @@
 	path = yocto/meta-security
 	url = git://git.yoctoproject.org/meta-security
 	branch = kirkstone
+[submodule "yocto/meta-aesd"]
+	path = yocto/meta-aesd
+	url = https://github.com/Pooria4484/meta-aesd-layer
