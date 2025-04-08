@@ -1,1 +1,1 @@
-IMAGE_INSTALL:append = " aesdsocket aesdchar mqtt-cmd-client"
++ IMAGE_INSTALL:append = " aesdsocket aesdchar mqtt-cmd"
