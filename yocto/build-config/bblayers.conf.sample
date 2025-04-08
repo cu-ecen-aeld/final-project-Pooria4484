@@ -1,0 +1,14 @@
+# POKY_BBLAYERS_CONF_VERSION is increased each time build/conf/bblayers.conf
+# changes incompatibly
+POKY_BBLAYERS_CONF_VERSION = "2"
+
+BBPATH = "${TOPDIR}"
+BBFILES ?= ""
+
+BBLAYERS ?= " \
+  /home/pooria/colorado/final-project-Pooria4484/yocto/poky/meta \
+  /home/pooria/colorado/final-project-Pooria4484/yocto/poky/meta-poky \
+  /home/pooria/colorado/final-project-Pooria4484/yocto/poky/meta-yocto-bsp \
+  /home/pooria/colorado/final-project-Pooria4484/yocto/meta-raspberrypi \
+  /home/pooria/colorado/final-project-Pooria4484/yocto/meta-mqtt-cmd \
+"
