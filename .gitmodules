@@ -13,3 +13,6 @@
 [submodule "yocto/meta-aesd"]
 	path = yocto/meta-aesd
 	url = https://github.com/Pooria4484/meta-aesd-layer
+[submodule "yocto/meta-openembedded"]
+	path = yocto/meta-openembedded
+	url = https://github.com/openembedded/meta-openembedded.git
