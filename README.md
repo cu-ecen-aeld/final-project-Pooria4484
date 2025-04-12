@@ -10,7 +10,7 @@ This repository contains Pouria's final project for the CU ECEN Embedded Linux c
 
 - 📘 [Project Overview (Wiki)](https://github.com/cu-ecen-aeld/final-project-Pooria4484/wiki/Project-Overview)  
 - 📅 [Schedule and Sprint Planning](https://github.com/cu-ecen-aeld/final-project-Pooria4484/wiki/Schedule)  
-- 📋 [GitHub Project Board](https://github.com/Pooria4484/aesd-course-project-board-final)
+- 📋 [GitHub Project Board](https://github.com/users/Pooria4484/projects/2)
 
 ---
 
